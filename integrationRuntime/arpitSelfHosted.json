@@ -1,0 +1,6 @@
+{
+	"name": "arpitSelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

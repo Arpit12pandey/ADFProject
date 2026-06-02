@@ -1,0 +1,17 @@
+{
+	"name": "ls_onPrem_file",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\\\ADFProject",
+			"userId": "laptop-p92nmgn0\\arpit",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjN2Q1Mzg3Zi01MmRjLTRlNTktOGQ5Mi0xZTU5YTIyM2JlNmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "arpitSelfHosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

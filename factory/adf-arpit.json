@@ -1,0 +1,15 @@
+{
+	"name": "adf-arpit",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec6023a2-4131-4f3f-a243-0df6fa78e53f",
+		"tenantId": "d59b180c-aed3-414e-9fb4-047f9e4e32ba"
+	}
+}
